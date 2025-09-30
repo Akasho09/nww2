@@ -13,7 +13,7 @@ import ReasonsList from "@/components/ReasonsList";
 
 const memories = [
   { title: "Our First Text 💬", message: "az:\nCan predict a lot by that addition\nJul 18, 2025 10:30 am" },
-  { title: "When We Said I Love You ❤️", message: "ਸੁਖ.\nAll I need is you.\n❤️ az\nJul 23, 2025 8:35 am" },
+  { title: "When We Said I Love You ❤️", message: "ਸੁਖ.\nAll I need is you. \n Jul 23, 2025 8:35 am" },
   { title: "Today 🎂", message: "Your special day — and I just want to remind you: you are my happiness, my love, my everything." },
 ];
 
