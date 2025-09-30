@@ -12,8 +12,8 @@ type ReasonsListProps = {
 
 const defaultReasons = [
   // 100 short romantic reasons. Edit any to personalize.
-  "I Love You.",
-  "I will Love u always.",
+  "You Love me.",
+  "You will always love me.",
   "You will be earning more than me Eventually.",
   "You care for me so so much.",
   "You understand me better.",
